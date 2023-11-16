@@ -39,6 +39,7 @@ RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 WS.verifyElementPropertyValue(response, 'data[1].employee_name', &quot;Garrett Winters&quot;)
+
 </verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

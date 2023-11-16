@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>data driven SOAP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db304fd2-d5e3-44f3-a93b-aa4b4bc36e20</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d07cd60-533b-40e9-8897-ab6db9a8580a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d07cd60-533b-40e9-8897-ab6db9a8580a</id>
+      <masked>false</masked>
+      <name>CountryISOCode</name>
+   </variable>
+</TestCaseEntity>
