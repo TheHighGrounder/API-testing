@@ -11,7 +11,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;data\&quot;: {\n    \&quot;name\&quot;: \&quot;Kristoff Task2\&quot;,\n    \&quot;notes\&quot;: \&quot;First task creation with webservice\&quot;,\n    \&quot;projects\&quot;: [\n      \&quot;${GlobalVariable.project_gid}\&quot;\n    ]\n  }\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;data\&quot;: {\n    \&quot;name\&quot;: \&quot;Kristoff Task3\&quot;,\n    \&quot;notes\&quot;: \&quot;Third task creation with webservice\&quot;,\n    \&quot;projects\&quot;: [\n      \&quot;${GlobalVariable.project_gid}\&quot;\n    ]\n  }\n}&quot;,
   &quot;contentType&quot;: &quot;text/plain&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
